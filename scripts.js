@@ -9,3 +9,9 @@ container.appendChild(content);
 
 
 //a <p> with red text that says “Hey I’m red!”//
+
+
+
+
+
+//an <h3> with blue text that says “I’m a blue h3!”//
